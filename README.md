@@ -9,4 +9,4 @@ npm install
 npm start
 
 
-Obs: Deverá ser clonado também o repositório do backend, desenvolvido em NodeJs"
+Obs: Deverá ser clonado também o repositório do backend, desenvolvido em NodeJs-> git clone https://github.com/Thiagolourenco/Backend--Tindev.git
