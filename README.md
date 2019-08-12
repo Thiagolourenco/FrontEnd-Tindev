@@ -2,7 +2,7 @@
 * Aplicação desenvolvida com ReactJs durante a semana OmniStack, o projeto tem como intuito criar um "Tinder" para desenvolvedor.
 
 # Instação
-git clone 
+git clone https://github.com/Thiagolourenco/FrontEnd-Tindev.git
 
 npm install 
 
